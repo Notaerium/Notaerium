@@ -6,7 +6,7 @@
 - For now, I am using PHP, JEE, JS, HTML/CSS (of course), and a bit of Python and I have been using Symfony and React as frameworks,
 - but I will continue to learn things such as Django or Spring, and other javascript frameworks such as Vue.js or Angular. I am also getting some knowledge of AWS and cloud computing.
 - 🌱 One of the things I love about this job is that there is always something new to learn, being a new tech, a new framework, or a whole new language.
-- 📫 How to reach me: parneix.vinh@gmail.com
+- 📫 How to reach me: parneix.vinh@gmail.com or vinhparneix.pro@gmail.com
 
 - 👋 Salut! Je m'appelle Vinh PARNEIX ou ici Notaerium.
 -  J'ai toujours été intéressé par la programmation et j'en fais depuis tout petit, sans penser en faire mon métier. Cependant, même après des années à l'étranger et explorer des choses, je ne pouvais que revenir vers cette ancienne passion. 
@@ -16,7 +16,7 @@
 - Pour le moment, j'utilise le Php, le Java JEE, le JS, l'HTML et le CSS mais à ce niveau là cela semble une évidence, un peu de Python et j'ai pu réaliser plusieurs projets sur les frameworks Reactjs et Symfony.
 - Je vais cependant continuer d'apprendre, que ce soit des frameworks comme Django pour le Python ou Srping pour le Java, et me diversifier sur les frameworks javascript en apprenant à utiliser Vue.js ou encore Angular. Je m'intéresse également à la certification AWS.
 - 🌱 C'est ce que j'adore dans cette discipline, c'est qu'il y a toujours quelque chose de nouveau à apprendre, que ce soit un langage, un framework ou même une nouvelle technologie.
-- 📫 Si vous voulez me joindre, envoyez-moi un mail : parneix.vinh@gmail.com
+- 📫 Si vous voulez me joindre, envoyez-moi un mail à l'une des adresses suivantes : parneix.vinh@gmail.com ou vinhparneix.pro@gmail.com
 
 <!---
 Notaerium/Notaerium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
